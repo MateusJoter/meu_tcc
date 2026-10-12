@@ -220,7 +220,7 @@ __marimo__/
 .streamlit/secrets.toml
 
 # Geopackage
-gpkg/
+*/gpkg/
 *.gpkg
 
 # Shapefile
@@ -235,6 +235,6 @@ shp/
 *.xml
 
 # Images
-tif/
+*/tif/
 *.tif
 *.tiff
