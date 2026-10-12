@@ -218,3 +218,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Geopackage
+gpkg/
+*.gpkg
+
+# Shapefile
+shp/
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.sbn
+*.sbx
+*.xml
+
+# Images
+tif/
+*.tif
+*.tiff
